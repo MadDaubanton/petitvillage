@@ -1,0 +1,24 @@
+#row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: 0 auto;
+}
+
+#no-result {
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 20px;
+  width: 100%;
+}
+
+.products {
+  box-shadow: 0px 2px 5px 0px rgb(0, 0, 0);
+}
+
+#figures {
+  padding: 0 5%;
+}

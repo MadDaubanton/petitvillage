@@ -1,0 +1,14 @@
+header {
+    font-family: "bubbleboddyneue";
+    margin-bottom: 50px;
+}
+
+.navbar {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.nav-link {
+    z-index: 10;
+    pointer-events: auto;
+}

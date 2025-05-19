@@ -1,0 +1,16 @@
+
+<div class="product">
+  <h1 class="product-name"> {{ figurine?.nom }} </h1>
+  <div class="product-body">
+  <div class="product-image-div">  <!-- product-image-div and description are now direct children of product-body -->
+    <img class="product-image" src="/assets/figpics/{{ figurine?.id }}.jpg" alt="Photo de {{ figurine?.nom }}">
+  </div>
+  <div class="description">
+    <p class="description-text">{{ figurine?.description }}</p>
+    <div class="price-tag">
+      <p class="price">{{ figurine?.prix }} €</p>
+      <button type="button" class="btn btn-primary">Acheter</button>
+    </div>
+  </div>
+</div> 
+</div>

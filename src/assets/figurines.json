@@ -1,0 +1,27 @@
+[
+    {
+        "id": "001",
+        "nom": "Figurine Astérix",
+        "prix": 25.00,
+        "description": "Figurine en bois d'Astérix, fidèle au personnage de la bande dessinée."
+        
+    },
+    {
+        "id": "002",
+        "nom": "Figurine Obélix",
+        "prix": 30.00,
+        "description": "Figurine en bois d'Obélix, avec son menhir et son chien Idéfix."
+    },
+    {
+        "id" : "003",
+        "nom": "Figurine Idéfix",
+        "prix": 20.00,
+        "description": "Figurine en bois d'Idéfix, avec sa fourrure douce et sa mignonnerie."
+    },
+    {
+        "id" : "004",
+        "nom" : "Figurine Panoramix",
+        "prix": 40.00,
+        "description" :"Figurine en bois de Panoramix, fidèle au personnage de la bande dessinée."
+    }
+]

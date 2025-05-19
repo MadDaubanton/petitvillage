@@ -1,0 +1,30 @@
+.front {    
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding-top:5%;
+    padding-bottom:5%;
+    color: #EEE;
+    background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(../../assets/panorama.jpg);
+    background-position: bottom;
+}
+
+#about {
+    padding: 5%;
+    margin:5%;
+    box-shadow: 0px 2px 5px 0px rgb(0, 0, 0);
+}
+#presentation {
+ margin-left: 10%;
+ margin-right: 10%;
+ padding-top: 5%;
+ padding-bottom: 5%;
+    background-color: rgba(0,0,0,0.3);
+}
+
+#logo {
+    width: 250px;
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 30%;
+    margin-bottom: 5%;
+}

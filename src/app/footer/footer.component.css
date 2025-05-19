@@ -1,0 +1,32 @@
+header {
+    font-family: "Nunito Sans", sans-serif;
+    margin-bottom: 50px;
+}
+
+footer {
+    font-family: "Nunito Sans", sans-serif;
+    background-color: #EEE;
+}
+
+#footer {
+    padding: 5%;
+}
+
+
+.usefullLinks a {
+    color: #444;
+    text-decoration: none;
+}
+
+.social-links a {
+    color: #444;
+    text-decoration: none;
+    margin: auto;
+
+}
+
+.social-links a i {
+    margin: 10px;
+    font-size: 2em;
+
+}
